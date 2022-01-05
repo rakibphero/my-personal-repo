@@ -12,22 +12,23 @@ body{
     background-color: white;
     margin-left: 50px;
     margin-right: 50px;
-    padding: 40px 50px;
+    padding: 40px 10px;
+}
+.about-me{
+    display: flex;
 }
 h4{
-    display: block;
-    margin-block-start: 1.33em;
-    margin-block-end: 1.33em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
+    display:flex;
     font-weight: bold;
-    text-align: left;
 }
 .about-width{
-    width: 60%;
-    float: left;
-    margin-left: 5%;
-    padding-left: 2%
+    width: 80%;
+    margin-left: 2%;
+    padding-left: 1%
+}
+.about-width p{
+    padding-right: 1%;
+
 }
 img{
     width:60%;
